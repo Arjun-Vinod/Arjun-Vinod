@@ -1,8 +1,7 @@
 # Hi, I'm Arjun Vinod
 
-<div align="center">
+<div>
   <h3>MERN Stack Developer | DevOps Enthusiast</h3>
-  <p><em>Turning Ideas into Scalable Web Applications</em></p>
 </div>
 
 ---
