@@ -37,22 +37,6 @@
 
 ---
 
-## Connect with Me
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/> <a href="https://www.linkedin.com/in/arjun-vinod-443900213/" target="_blank">LinkedIn</a>
-</p>
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Portfolio" width="20" height="20"/> <a href="https://arjunvinod.netlify.app/" target="_blank">Portfolio</a>
-</p>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="20" height="20"/> <a href="mailto:arjun.vinodaj77@gmail.com">Email</a>
-</p>
-
----
-
 ## About Me
 
 Passionate about creating robust, scalable web applications using the MERN stack. I enjoy exploring DevOps practices to streamline development workflows and deployment processes. Always eager to learn new technologies and contribute to innovative projects.
