@@ -5,6 +5,9 @@
 </div>
 
 ---
+## About Me
+
+Passionate about creating robust, scalable web applications using the MERN stack. I enjoy exploring DevOps practices to streamline development workflows and deployment processes. Always eager to learn new technologies and contribute to innovative projects.
 
 ## Tech Stack & Tools
 
@@ -37,6 +40,4 @@
 
 ---
 
-## About Me
 
-Passionate about creating robust, scalable web applications using the MERN stack. I enjoy exploring DevOps practices to streamline development workflows and deployment processes. Always eager to learn new technologies and contribute to innovative projects.
