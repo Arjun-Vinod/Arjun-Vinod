@@ -1,14 +1,5 @@
 # Hi, I'm Arjun Vinod
 
-<div>
-  <h3>MERN Stack Developer | DevOps Enthusiast</h3>
-</div>
-
----
-## About Me
-
-Passionate about creating robust, scalable web applications using the MERN stack. I enjoy exploring DevOps practices to streamline development workflows and deployment processes. Always eager to learn new technologies and contribute to innovative projects.
-
 ## Tech Stack & Tools
 
 <p >
